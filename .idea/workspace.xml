@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765d0292-c9bb-400b-a54f-fb0734926279" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio_14.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +48,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Ejercicio_10Kt">
+  <component name="RunManager" selected="Kotlin.Ejercicio_14Kt">
     <configuration name="Ejercicio_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio_10Kt" />
+      <module name="taller2_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio_14Kt" />
       <module name="taller2_kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio_6Kt" />
-      <module name="taller2_kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ejercicio_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio_8Kt" />
       <module name="taller2_kotlin" />
@@ -92,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejercicio_14Kt" />
         <item itemvalue="Kotlin.Ejercicio_10Kt" />
         <item itemvalue="Kotlin.Ejercicio_8Kt" />
         <item itemvalue="Kotlin.Ejercicio_6Kt (1)" />
         <item itemvalue="Kotlin.Ejercicio_5Kt" />
-        <item itemvalue="Kotlin.Ejercicio_6Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +103,18 @@
       <option name="presentableId" value="Default" />
       <updated>1654561662655</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se resuelven los puntos 2, 4, 6, 8 y 10 de la actividad 2">
+      <created>1654663916001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654663916001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se resuelven los puntos 2, 4, 6, 8 y 10 de la actividad 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se resuelven los puntos 2, 4, 6, 8 y 10 de la actividad 2" />
   </component>
 </project>
