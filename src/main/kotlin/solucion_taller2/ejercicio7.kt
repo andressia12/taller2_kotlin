@@ -16,6 +16,7 @@ fun main(){
     println("La pendiente de la recta es: ${ pendiente_recta(x1, y1, x2, y2) }")
     println("Las cooredenas del punto medio son: ${punto_medio(x1, y1, x2, y2)}")
 
+
 }
 
 fun distancia (x1:Double,y1:Double, x2:Double, y2:Double):Double{

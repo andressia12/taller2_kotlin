@@ -24,3 +24,4 @@ fun salario (sueldo:Double): Pair<Double, Double>{
         return Pair(aumento,nuevoSueldo)
     }
 }
+

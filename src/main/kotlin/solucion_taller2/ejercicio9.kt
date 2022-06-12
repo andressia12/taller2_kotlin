@@ -13,5 +13,6 @@ fun main(){
 }
  fun num_mayor(n1:Int,n2:Int):Int{
      val mayor = max(n1,n2)
+
      return mayor
  }

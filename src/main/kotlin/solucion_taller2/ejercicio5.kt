@@ -17,3 +17,4 @@ fun area_corona (r1:Double, r2: Double): Double{
     var a = area1 - area2
     return a
 }
+

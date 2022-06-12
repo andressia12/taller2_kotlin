@@ -10,3 +10,4 @@ fun main (){
     println("El resultado es: ${ejercico_uno(x,y)}")
 }
 fun ejercico_uno(x:Double, y:Double) = Math.pow(x, 2.0)-(2*x*y)+Math.pow(y, 2.0)
+

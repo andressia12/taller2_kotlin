@@ -13,3 +13,4 @@ fun inclinacion (tetha:Double, altura:Double):Double{
     var y = altura/ sin(tetha)
     return y
 }
+
