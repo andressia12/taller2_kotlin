@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="765d0292-c9bb-400b-a54f-fb0734926279" name="Changes" comment="" />
+    <list default="true" id="765d0292-c9bb-400b-a54f-fb0734926279" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/solucion_taller2/ejercicio1.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AE4vPaN56LNF2Hhi6b3K1AWnd8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +38,41 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/andre/Desktop/Diplomado desarrollo móvil/taller2_kotlin"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.Ejercicio11Kt">
+    <configuration name="Ejercicio11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio11Kt" />
+      <module name="taller2_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio1Kt" />
+      <module name="taller2_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solucion_taller2.Ejercicio3Kt" />
+      <module name="taller2_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ejercicio11Kt" />
+        <item itemvalue="Kotlin.Ejercicio3Kt" />
+        <item itemvalue="Kotlin.Ejercicio1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +83,16 @@
       <updated>1654561662655</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
